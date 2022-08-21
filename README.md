@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/social-proof-section-EiJ9tw80KQ)
-- Live Site URL: [Four card feature section](https://axldev96.github.io/social-proof-section/)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/four-card-feature-section-solution-njoZnCiTo8)
+- Live Site URL: [Four card feature section](https://axldev96.github.io/four_card_feature_section/)
 
 ## My process
 
